@@ -13,7 +13,7 @@ The dataset used for this project is provided in two files:
 
 The following dependencies are required to run the code:
 
-- Python 3.1
+- Python 3.7+
 - pandas
 - numpy
 - scikit-learn
